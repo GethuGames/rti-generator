@@ -1,3 +1,8 @@
 Online RTI (Right to Information Act, 2005, India) Generator
 
 Hosted @ http://grayfaceofindia.in/online-rti-generator/
+
+Code Conventions:
+ 1. Capitalization: appleNamingConvetion
+ 2. Commenting: jsdoc-toolkit (https://code.google.com/p/jsdoc-toolkit/)
+ 3. 
